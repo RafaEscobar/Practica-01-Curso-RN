@@ -4,4 +4,4 @@ Practica correspondiente al uso de Flex Box al generar diferentes pantallas con 
 <h2> Pantallas </h2>
 
 <h3> Ejercicio #1 </h3>
-<img src="https://i.postimg.cc/G2qzLxJZ/Whats-App-Image-2022-12-11-at-5-56-58-PM.jpg" />
+<img src="https://i.postimg.cc/G2qzLxJZ/Whats-App-Image-2022-12-11-at-5-56-58-PM.jpg" width="360" height="800"/>
