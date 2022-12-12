@@ -4,10 +4,12 @@ Practica correspondiente al uso de Flex Box al generar diferentes pantallas con 
 <h2> Pantallas </h2>
 
 <div style=" display: flex">
-  <div>
+  <article>
+    <h3>ddede</h3>
     <img src="https://i.postimg.cc/yW4zjKgh/dos.jpg" width="180" height="400" style=" display: inline"/>
-  </div>
-  <div >
+  </article>
+  <article >
+    <h3>ddede</h3>
   <img src="https://i.postimg.cc/yW4zjKgh/dos.jpg" width="180" height="400" style=" display: inline"/>
-  </div>
+  </article>
 </div>
