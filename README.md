@@ -5,6 +5,10 @@ Practica correspondiente al uso de Flex Box al generar diferentes pantallas con 
 
 
 <div style=" display: flex">
-  <img src="https://i.postimg.cc/26FM4Wdw/Whats-App-Image-2022-12-11-at-5-56-59-PM.jpg" width="180" height="400"/>
-  <img src="https://i.postimg.cc/yW4zjKgh/dos.jpg" width="180" height="400"/>
+  <div>
+    <img src="https://i.postimg.cc/26FM4Wdw/Whats-App-Image-2022-12-11-at-5-56-59-PM.jpg" width="180" height="400"/>  
+  </div
+  <div>
+  <img src="https://i.postimg.cc/yW4zjKgh/dos.jpg" width="180" height="400"/>  
+  </div>
 </div>
