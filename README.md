@@ -4,6 +4,6 @@ Practica correspondiente al uso de Flex Box al generar diferentes pantallas con 
 <h2> Pantallas </h2>
 
 <div style=" display: flex">
-  <div>Holaaaaaaaaaaaaa </div>
-  <div>AMIGOOOOOOOOOOOOOOOOOS</div>
+  <div style=" display: inline">Holaaaaaaaaaaaaa </div>
+  <div style=" display: inline">AMIGOOOOOOOOOOOOOOOOOS</div>
 </div>
